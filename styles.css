@@ -3,6 +3,9 @@ background: #f0e1f0;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: [pick a font color];
+color: black;
 text-align: center;
+}
+.project {
+  text-align: center;
 }

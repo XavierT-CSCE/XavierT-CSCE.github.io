@@ -41,3 +41,8 @@ text-align: center;
 }
 
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+
+.project {
+  text-align: center;
+margin-bottom: 20px;
+}

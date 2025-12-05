@@ -9,22 +9,29 @@ font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 20px;
 }
 
+/* Chatgpt made this portion right here, but this is the only portion it helped me with*/
+img {
+    width: 300px;   
+    height: auto;  
+}
+/* ^Chatgpt made this portion right here, but this is the only portion it helped me with^*/
+
 .skills{
   text-align: center;
   margin-bottom: 20px;
 }
 
-.projShit{
+.proj{
   text-align: center;
   margin-bottom: 20px;
 }
 
-.affShit{
+.aff{
   text-align: center;
   margin-bottom: 20px;
 }
 
-.chartShit{
+.chart{
   text-align: center;
   margin-bottom: 20px;
 }

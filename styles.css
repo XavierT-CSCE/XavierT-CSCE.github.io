@@ -33,16 +33,3 @@ h1 {
 color: black;
 text-align: center;
 }
-
-
-.project {
-  text-align: center;
-  width: 100px;
-}
-
-.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
-
-.project {
-  text-align: center;
-margin-bottom: 20px;
-}

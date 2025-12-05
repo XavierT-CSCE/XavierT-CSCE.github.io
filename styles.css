@@ -4,16 +4,16 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 
-.about hr {
+.about {
     text-align: center;
     margin-bottom: 20px;
-    width: 10px;
 }
 
 h1 {
 color: black;
 text-align: center;
 }
+
 
 .project {
   text-align: center;

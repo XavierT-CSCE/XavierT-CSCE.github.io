@@ -19,12 +19,7 @@ img {
 }
 /* ^Chatgpt made this portion right here, but this is the only portion it helped me with^*/
 
-.skills{
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.proj{
+.skills .about .proj{
   text-align: center;
   margin-bottom: 20px;
 }
